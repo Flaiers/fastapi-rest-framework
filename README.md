@@ -4,6 +4,10 @@
 [![Licence](https://img.shields.io/github/license/Flaiers/fastapi-rest-framework)](https://github.com/Flaiers/fastapi-rest-framework/blob/main/LICENSE)
 
 
+## Introduction
+
+Restful API based on FastAPI, Pydantic and SQLAlchemy
+
 ## Installation
 
 ```shell

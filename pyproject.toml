@@ -1,7 +1,12 @@
 [tool.poetry]
 name = "fastapi-rest-framework"
 version = "0.1.0"
-description = ""
+description = "Restful API based on FastAPI, Pydantic and SQLAlchemy"
+keywords = [
+    "fastapi",
+    "pydantic",
+    "sqlalchemy"
+]
 
 license = "MIT"
 
@@ -10,12 +15,16 @@ authors = [
 ]
 
 readme = "README.md"
+homepage = "https://github.com/long2ice/fastapi-rest"
 repository = "https://github.com/flaiers/fastapi-rest-framework"
+documentation = "https://github.com/long2ice/fastapi-rest"
 
 
 [tool.poetry.dependencies]
 python = "^3.10"
 fastapi = "^0.75.0"
+pydantic = "^1.9.0"
+SQLAlchemy = "^1.4.32"
 
 
 [tool.poetry.dev-dependencies]

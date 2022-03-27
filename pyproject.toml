@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "fastapi-rest-framework"
-version = "0.1.0"
+version = "0.0.1"
 description = "Restful API based on FastAPI, Pydantic and SQLAlchemy"
 keywords = [
     "fastapi",

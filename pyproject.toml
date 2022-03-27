@@ -15,9 +15,9 @@ authors = [
 ]
 
 readme = "README.md"
-homepage = "https://github.com/long2ice/fastapi-rest"
+homepage = "https://github.com/flaiers/fastapi-rest-framework"
 repository = "https://github.com/flaiers/fastapi-rest-framework"
-documentation = "https://github.com/long2ice/fastapi-rest"
+documentation = "https://github.com/flaiers/fastapi-rest-framework"
 
 
 [tool.poetry.dependencies]
